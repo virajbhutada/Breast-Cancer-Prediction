@@ -1,6 +1,6 @@
 #  Exploratory Data Analysis - Terrorism 
 
-**# Phase 1 Projects(Normal): Data Science Intern @CodersCave**
+# **Phase 1 Projects(Normal): Data Science Intern @CodersCave**
 
 ---
 
