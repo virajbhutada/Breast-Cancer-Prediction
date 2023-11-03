@@ -3,9 +3,6 @@
 **Phase 1 Projects: Data Science Intern @CodersCave**
 
 ---
-Click the link below to access the Colab file for further exploration.
-Google Colab:https://colab.research.google.com/drive/1k8GRvqpGUbcLMgie0pi1s934vBFDbgeX#scrollTo=CAYeMnIhHnIr
----
 
 ## Problem Statement:
 The goal of this project is to perform Exploratory Data Analysis (EDA) on the terrorism dataset
