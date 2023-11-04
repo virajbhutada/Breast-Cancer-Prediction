@@ -12,7 +12,7 @@ This project revolves around creating a predictive model classifying breast tumo
 ---
 ## Results
 
-Our model evaluation, including SVM, Decision Tree, Random Forest, Naive Bayes, Neural Network, and XGBoost, highlighted the supremacy of Tuned Logistic Regression, ensuring accuracy and early detection. A higher recall score underscores the model's efficacy in identifying malignant cases promptly.
+**Our model evaluation, including SVM, Decision Tree, Random Forest, Naive Bayes, Neural Network, and XGBoost, highlighted the supremacy of Tuned Logistic Regression, ensuring accuracy and early detection. A higher recall score underscores the model's efficacy in identifying malignant cases promptly.**
 
 ## Conclusion
 
@@ -21,7 +21,7 @@ In the Breast Cancer Prediction Project, meticulous model selection and evaluati
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/viraj-bhutada-a172b027a/)
+- [Viraj Bhutada](https://www.linkedin.com/in/viraj-bhutada-a172b027a/)
 
 ---
 
