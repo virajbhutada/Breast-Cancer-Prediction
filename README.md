@@ -6,7 +6,7 @@
 
 Welcome to the README file showcasing the incredible journey through four impactful data science projects completed during the CodersCave Data Science Internship. Each project is a testament to dedication, innovation, and a commitment to solving real-world challenges. Let's delve into the details of each endeavor.
 
-**Author: [Viraj Bhutada](https://www.linkedin.com/in/viraj-bhutada-a172b027a/)**
+## Author: [Viraj Bhutada](https://www.linkedin.com/in/viraj-bhutada-a172b027a/)
 
 ## 1. Breast Cancer Prediction Project
 
