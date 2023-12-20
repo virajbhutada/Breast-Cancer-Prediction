@@ -1,4 +1,5 @@
-# CVIP-Data-Science
+# CVIP_Data_Science
+
 ---
 
 # CodersCave Data Science Internship Projects
