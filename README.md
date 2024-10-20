@@ -38,7 +38,7 @@ Each instance in the dataset is labeled as either **benign (B)** or **malignant 
 
 | Feature | Description |
 |---------|-------------|
-| Radius | Mean of distances from center to points on the tumor perimeter |
+| Radius | Mean of distances from the center to points on the tumor perimeter |
 | Texture | Standard deviation of gray-scale values |
 | Perimeter | Measurement of the tumor perimeter |
 | Area | Measurement of the tumor area |
@@ -138,3 +138,10 @@ The development of our Breast Cancer Prediction Model underscores the growing im
 By leveraging data-driven techniques, this project illustrates how artificial intelligence can elevate medical diagnostics. The early identification of malignant tumors not only opens doors to more effective treatments but also gives patients a better chance at recovery. Every decision in healthcare carries immense weight, and this model demonstrates the critical role precision can play in saving lives.
 
 In conclusion, this project highlights how machine learning can reshape the future of healthcare, particularly in the fight against breast cancer. As AI technology continues to evolve, integrating models like this into real-world medical workflows will help raise the quality of care, offering hope and better outcomes for countless patients.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this code in your projects, as long as the original authors are credited. For more details, refer to the [LICENSE](./LICENSE) file.
+
